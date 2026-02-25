@@ -120,10 +120,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and AI/ML en
 I'd love to collaborate, discuss ideas, or work together on projects!
 
 - 💼 **GitHub**: [@Ushapithani](https://github.com/Ushapithani)
-- 🔗 **LinkedIn**: [Usha Rani Pithani](https://linkedin.com/in/ushapithani)
-- 💻 **LeetCode**: [Ushapithani](https://leetcode.com/Ushapithani/)
-- 🌐 **Live Portfolio**: [AI Career Path](https://frontend-nine-cyan-78.vercel.app)
-
+  
 ---
 
 ## 🎯 Currently Working On
