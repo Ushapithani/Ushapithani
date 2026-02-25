@@ -1,25 +1,128 @@
-<h1 align="center">Hi 👋, I'm USHA RANI PITHANI</h1>
-<h3 align="center">A Full Stack Developer & AI/ML Enthusiast from India, crafting scalable web applications</h3>
+# Hey there! 👋 I'm Usha Pithani
 
-- 🔭 I’m currently working on [real time object detection](https://github.com/Ushapithani/Real_Time_Object_Detection_Project)
+Welcome to my GitHub profile! I'm a passionate full-stack developer dedicated to creating impactful solutions through code. I love working with both frontend and backend technologies, and I'm constantly exploring new tools and frameworks to enhance my skills.
 
-- 🌱 I’m currently learning **Full-Stack Web Development ServiceNow,& AI/ML**
+---
 
-- 👯 I’m looking to collaborate on **AI/ML Research & Development Projects**
+## 🚀 About Me
 
-- 🤝 I’m looking for help with **Conversational AI & Chatbot Development**
+- 💻 **Full Stack Developer** passionate about building responsive and functional web applications
+- 🌱 **Continuous Learner** exploring Python, JavaScript, TypeScript, and modern frameworks
+- 🤝 **Collaborative Developer** enjoying teamwork and knowledge sharing
+- 📚 **Open Source Enthusiast** committed to creating quality code and contributing to meaningful projects
+- 🎯 **Problem Solver** focused on creating elegant solutions to complex challenges
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ushapithani](https://github.com/Ushapithani)
+---
 
-- 📫 How to reach me **pithaniusha73@gmail.com**
+## 💡 Skills & Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/usha-pithani-8298b4292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usha-pithani-8298b4292" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/usha_pithani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/usha_pithani/" height="30" width="40" /></a>
-</p>
+### Languages
+- **Python** - Backend development, scripting, and learning
+- **JavaScript** - Frontend and interactive development
+- **HTML & CSS** - Responsive web design and styling
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Frontend Development
+- React & modern JavaScript
+- Responsive Design
+- Interactive UI/UX
 
+### Backend & Full-Stack
+- Python Backend Development
+- REST APIs
+- Web Application Architecture
 
+### Tools & Platforms
+- Git & Version Control
+- Web Development Tools
+
+---
+
+## 📌 Pinned Projects
+
+### 🎨 **Color Palette Generator**
+**[Repository](https://github.com/Ushapithani/Color-Palette-Generator)**
+- CSS-based color palette generation tool
+- Perfect for designers and developers
+- *Language: CSS*
+
+### 🐍 **Instagram Clone - Backend**
+**[Repository](https://github.com/Ushapithani/Insta_clone_back_end)**
+- Robust Python backend with API endpoints
+- Full-featured Instagram-inspired backend
+- *Language: Python*
+
+### 📸 **Instagram Clone - Frontend**
+**[Repository](https://github.com/Ushapithani/Insta_clone_front_end)**
+- Beautiful and interactive frontend interface
+- Responsive design with modern styling
+- *Language: CSS*
+
+### 🐍 **Python Learning Repository**
+**[Repository](https://github.com/Ushapithani/python)**
+- Comprehensive collection of Python code and projects
+- Includes all coursework and learning materials
+- Practice problems and real-world applications
+- *Language: Python*
+
+### 🎮 **Quiz Game**
+**[Repository](https://github.com/Ushapithani/Quiz_Game)**
+- Interactive quiz game built with JavaScript
+- Engaging user experience with dynamic questions
+- *Language: JavaScript*
+
+### 🔍 **Real-Time Object Detection Project**
+**[Repository](https://github.com/Ushapithani/Real_Time_Object_Detection_Project)**
+- Advanced computer vision application
+- Real-time object detection capabilities
+- Built with HTML and modern web technologies
+- *Language: HTML*
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ushapithani&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ushapithani&layout=compact&theme=dark)
+
+---
+
+## 🌟 Tech Stack Overview
+
+| Category | Technologies |
+|----------|---------------|
+| **Frontend** | JavaScript, HTML, CSS, Responsive Design |
+| **Backend** | Python, REST APIs |
+| **Tools** | Git, GitHub |
+| **Specializations** | Full-Stack Development, Web Design, Computer Vision |
+
+---
+
+## 🎓 Learning Journey
+
+- 📖 Python fundamentals and backend development
+- 🎯 Full-stack application development
+- 🔬 Computer vision and object detection
+- 💻 JavaScript and web technologies
+- 🚀 Web application development
+
+---
+
+## 📫 Let's Connect!
+
+I'd love to collaborate, discuss ideas, or help with your projects!
+
+- 💼 **GitHub**: [@Ushapithani](https://github.com/Ushapithani)
+
+---
+
+## 🎯 Currently Working On
+
+- 🚀 Building scalable full-stack applications
+- 📚 Expanding knowledge in modern web frameworks
+- 🤖 Exploring AI and machine learning applications
+- 💡 Contributing to meaningful open-source projects
+
+---
+
+**Thanks for visiting my GitHub profile! Don't forget to ⭐ if you find something interesting!**
