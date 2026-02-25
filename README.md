@@ -1,81 +1,70 @@
 # Hey there! 👋 I'm Usha Pithani
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer dedicated to creating impactful solutions through code. I love working with both frontend and backend technologies, and I'm constantly exploring new tools and frameworks to enhance my skills.
+Welcome to my GitHub profile! I'm a passionate full-stack developer dedicated to creating impactful solutions through code. I love building complete applications from frontend to backend, and I'm constantly exploring new technologies to enhance my skills.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Full Stack Developer** passionate about building responsive and functional web applications
-- 🌱 **Continuous Learner** exploring Python, JavaScript, TypeScript, and modern frameworks
+- 💻 **Full Stack Developer** passionate about building scalable web applications
+- 🌱 **Continuous Learner** exploring Python, TypeScript, and modern frameworks
 - 🤝 **Collaborative Developer** enjoying teamwork and knowledge sharing
-- 📚 **Open Source Enthusiast** committed to creating quality code and contributing to meaningful projects
-- 🎯 **Problem Solver** focused on creating elegant solutions to complex challenges
+- 📚 **Problem Solver** committed to clean code and elegant solutions
+- 🎯 **DSA Enthusiast** practicing algorithms and coding challenges daily
 
 ---
 
 ## 💡 Skills & Technologies
 
 ### Languages
-- **Python** - Backend development, scripting, and learning
-- **JavaScript** - Frontend and interactive development
+- **Python** - Backend development, algorithms, and scripting
+- **TypeScript** - Modern frontend development
 - **HTML & CSS** - Responsive web design and styling
 
 ### Frontend Development
-- React & modern JavaScript
+- React & TypeScript
 - Responsive Design
-- Interactive UI/UX
+- Modern UI/UX
+- CSS Styling (4.3%)
 
-### Backend & Full-Stack
-- Python Backend Development
+### Backend Development
+- Python Backend
 - REST APIs
 - Web Application Architecture
 
 ### Tools & Platforms
 - Git & Version Control
+- Vercel (Frontend Deployment)
 - Web Development Tools
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
 
-### 🎨 **Color Palette Generator**
-**[Repository](https://github.com/Ushapithani/Color-Palette-Generator)**
-- CSS-based color palette generation tool
-- Perfect for designers and developers
-- *Language: CSS*
+### 🚀 **AI Career Path - Frontend**
+**[Repository](https://github.com/Ushapithani/AI-CAREER-PATH-FRONTEND)** | **[Live Demo](https://frontend-nine-cyan-78.vercel.app)**
+- Modern TypeScript & React frontend application
+- Responsive design with intuitive UI
+- Deployed on Vercel for seamless performance
+- **Tech Stack**: TypeScript (93.6%), CSS (4.3%), JavaScript (2.1%)
+- *Last Updated: February 2026*
 
-### 🐍 **Instagram Clone - Backend**
-**[Repository](https://github.com/Ushapithani/Insta_clone_back_end)**
-- Robust Python backend with API endpoints
-- Full-featured Instagram-inspired backend
-- *Language: Python*
+### 🧠 **AI Career Path - Backend**
+**[Repository](https://github.com/Ushapithani/AI-CAREER-PATH-BACKEND)**
+- Robust Python backend API
+- Handles data processing and business logic for the AI Career Path platform
+- RESTful API design
+- **Tech Stack**: Python (100%)
+- *Last Updated: February 2026*
 
-### 📸 **Instagram Clone - Frontend**
-**[Repository](https://github.com/Ushapithani/Insta_clone_front_end)**
-- Beautiful and interactive frontend interface
-- Responsive design with modern styling
-- *Language: CSS*
-
-### 🐍 **Python Learning Repository**
-**[Repository](https://github.com/Ushapithani/python)**
-- Comprehensive collection of Python code and projects
-- Includes all coursework and learning materials
-- Practice problems and real-world applications
-- *Language: Python*
-
-### 🎮 **Quiz Game**
-**[Repository](https://github.com/Ushapithani/Quiz_Game)**
-- Interactive quiz game built with JavaScript
-- Engaging user experience with dynamic questions
-- *Language: JavaScript*
-
-### 🔍 **Real-Time Object Detection Project**
-**[Repository](https://github.com/Ushapithani/Real_Time_Object_Detection_Project)**
-- Advanced computer vision application
-- Real-time object detection capabilities
-- Built with HTML and modern web technologies
-- *Language: HTML*
+### 💻 **LeetCode Daily**
+**[Repository](https://github.com/Ushapithani/LEETCODE_DAILY)**
+- Daily coding challenge solutions and practice
+- Comprehensive collection of algorithm implementations
+- Problem-solving practice with explanations
+- **Tech Stack**: Python (100%)
+- *Last Updated: February 2026*
+- *Size: 661 KB | Active Development*
 
 ---
 
@@ -91,38 +80,39 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer dedicated to
 
 | Category | Technologies |
 |----------|---------------|
-| **Frontend** | JavaScript, HTML, CSS, Responsive Design |
+| **Frontend** | TypeScript, React, CSS, HTML, JavaScript |
 | **Backend** | Python, REST APIs |
-| **Tools** | Git, GitHub |
-| **Specializations** | Full-Stack Development, Web Design, Computer Vision |
+| **Tools** | Git, GitHub, Vercel |
+| **Specializations** | Full-Stack Development, DSA, Web Design |
 
 ---
 
 ## 🎓 Learning Journey
 
-- 📖 Python fundamentals and backend development
+- 📖 Python development and algorithms
+- ⚛️ TypeScript and modern frontend frameworks
 - 🎯 Full-stack application development
-- 🔬 Computer vision and object detection
-- 💻 JavaScript and web technologies
-- 🚀 Web application development
+- 💡 Daily problem-solving through LeetCode
+- 🚀 Building production-ready applications
 
 ---
 
 ## 📫 Let's Connect!
 
-I'd love to collaborate, discuss ideas, or help with your projects!
+I'd love to collaborate, discuss ideas, or work together on projects!
 
 - 💼 **GitHub**: [@Ushapithani](https://github.com/Ushapithani)
+- 🔗 **Live Portfolio**: [AI Career Path](https://frontend-nine-cyan-78.vercel.app)
 
 ---
 
 ## 🎯 Currently Working On
 
-- 🚀 Building scalable full-stack applications
-- 📚 Expanding knowledge in modern web frameworks
-- 🤖 Exploring AI and machine learning applications
-- 💡 Contributing to meaningful open-source projects
+- 🚀 Building scalable full-stack applications with Python and TypeScript
+- 📚 Mastering data structures and algorithms through daily LeetCode practice
+- 🤖 Developing AI-driven career path guidance platform
+- 💡 Expanding expertise in modern web technologies
 
 ---
 
-**Thanks for visiting my GitHub profile! Don't forget to ⭐ if you find something interesting!**
+**Thanks for visiting my GitHub profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
