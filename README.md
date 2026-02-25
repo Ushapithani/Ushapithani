@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and AI/ML en
 - *Last Updated: February 2026*
 
 ### 💻 **LeetCode Daily**
-**[Repository](https://github.com/Ushapithani/LEETCODE_DAILY)** | **[LeetCode Profile](https://leetcode.com/Ushapithani/)**
+**[Repository](https://github.com/Ushapithani/LEETCODE_DAILY)** | **[LeetCode Profile](https://leetcode.com/u/Usha_Pithani/)**
 - Daily coding challenge solutions and practice
 - Comprehensive collection of algorithm implementations
 - Problem-solving practice with detailed explanations
